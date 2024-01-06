@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikulislamcse" alt="ashikulislamcse" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashikulislamcse" target="blank"><img src="https://img.shields.io/twitter/follow/ashikulislamcse?logo=twitter&style=for-the-badge" alt="ashikulislamcse" /></a> </p>
+<h1 align="left"> 🚀 About Me </h1>
+<p>I am a web developer. I have skills in a variety of technology, programming languages and frameworks. Especially has a lot of skills and knowledge on HTML 5, CSS and Javascript.</p>
 
 - 🌱 I’m currently learning **Javascript.**
 
