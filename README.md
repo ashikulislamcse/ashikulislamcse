@@ -1,7 +1,8 @@
 # Hi, I'm Ashikul Islam👋
 
-### 👨‍💻I am a Web Developer.
-
+### 👨‍💻 I am a Web Developer.
+### ❤️ I Love to Write Code.
+### 😊 I’m currently learning What i Need.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
