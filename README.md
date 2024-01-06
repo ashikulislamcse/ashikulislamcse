@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/ashikulislamcse" target="blank"><img src="https://img.shields.io/twitter/follow/ashikulislamcse?logo=twitter&style=for-the-badge" alt="ashikulislamcse" /></a> </p>
 <h1 align="left"> 🚀 About Me </h1>
 <p>I am a web developer. I have skills in a variety of technology, programming languages and frameworks. Especially has a lot of skills and knowledge on HTML 5, CSS and Javascript.</p>
-
+<h1>I am Python Lover</h1>
 - 🌱 I’m currently learning **Javascript.**
 
 - 👨‍💻 All of my projects are available at [https://ashikulislamcse.notion.site/ashikulislamcse/ALL-MY-LINKS-HERE-58bbea86e1ab4daa9db0f8a351fa6f9b](https://ashikulislamcse.notion.site/ashikulislamcse/ALL-MY-LINKS-HERE-58bbea86e1ab4daa9db0f8a351fa6f9b)
