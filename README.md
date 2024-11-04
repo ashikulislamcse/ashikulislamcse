@@ -11,7 +11,7 @@
 <h1>I am Python Lover</h1>
 - 🌱 I’m currently learning **Javascript.**
 
-- 👨‍💻 All of my projects are available at [https://ashikulislamcse.notion.site/ashikulislamcse/ALL-MY-LINKS-HERE-58bbea86e1ab4daa9db0f8a351fa6f9b](https://ashikulislamcse.notion.site/ashikulislamcse/ALL-MY-LINKS-HERE-58bbea86e1ab4daa9db0f8a351fa6f9b)
+- 👨‍💻 All of my projects are available at [https://ashikulislam.netlify.app/]()
 
 - 💬 Ask me about **HTML and CSS.**
 
