@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashikulislam.netlify.app/]()
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, bootstrap CSS, ReactJs, MongoDB, ExpressJs, NodeJs, NextJs.**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, bootstrap-5, ReactJs, MongoDB, ExpressJs, NodeJs, NextJs.**
 
 - 📫 How to reach me **ashikulislamcse@gmail.com**
 
