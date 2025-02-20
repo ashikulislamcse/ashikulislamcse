@@ -8,12 +8,12 @@
 <p align="left"> <a href="https://twitter.com/ashikulislamcse" target="blank"><img src="https://img.shields.io/twitter/follow/ashikulislamcse?logo=twitter&style=for-the-badge" alt="ashikulislamcse" /></a> </p>
 <h1 align="left"> 🚀 About Me </h1>
 <p>I am a web developer. I have skills in a variety of technology, programming languages and frameworks. Especially has a lot of skills and knowledge on HTML 5, CSS and Javascript.</p>
-<h1>I am Python Lover</h1>
-- 🌱 I’m currently learning **Javascript.**
+<h1>Ashik.jsx</h1>
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://ashikulislam.netlify.app/]()
 
-- 💬 Ask me about **HTML and CSS.**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, bootstrap CSS, ReactJs, MongoDB, ExpressJs, NodeJs, NextJs.**
 
 - 📫 How to reach me **ashikulislamcse@gmail.com**
 
