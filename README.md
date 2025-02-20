@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashikul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikulislamcse&label=Profile%20views&color=0e75b6&style=flat" alt="ashikulislamcse" /> </p>
 
@@ -7,13 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/ashikulislamcse" target="blank"><img src="https://img.shields.io/twitter/follow/ashikulislamcse?logo=twitter&style=for-the-badge" alt="ashikulislamcse" /></a> </p>
 <h1 align="left"> 🚀 About Me </h1>
-<p>I am a web developer. I have skills in a variety of technology, programming languages and frameworks. Especially has a lot of skills and knowledge on HTML 5, CSS and Javascript.</p>
+<p>I am a MERN stack developer. I have skills in a variety of technology, programming languages and frameworks. Especially has a lot of skills and knowledge on HTML 5, CSS, 
+ Javascript, Tailwind CSS, ReactJs, Tailwind CSS, MongoDB, Moongoose, ExpressJs, NodeJs, NextJs.</p>
 <h1>Ashik.jsx</h1>
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://ashikulislam.netlify.app/]()
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, bootstrap-5, ReactJs, MongoDB, ExpressJs, NodeJs, NextJs.**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, bootstrap-5, ReactJs, Tailwind css, MongoDB, ExpressJs, NodeJs, NextJs.**
 
 - 📫 How to reach me **ashikulislamcse@gmail.com**
 
